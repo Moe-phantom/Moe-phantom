@@ -56,7 +56,7 @@ def classify_image(image_path, model, topk=5, gpu=False):
             model = model.cpu()
         outputs = model(image)
         probs, classes = torch.exp(outputs).topk(topk)
-        probs, classes = probs[0].tolist(), classes[0].add(1).tolist()
+        probs, classes = probs[0].tolist(), classes[0].tolist()
         results = zip(probs, classes)
         return results
 

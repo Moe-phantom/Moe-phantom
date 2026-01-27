@@ -45,5 +45,5 @@ Currently, I am serving as the **Head of AI/ML** at [GDG on Campus UTM](https://
 ---
 
 ### 📫 **Connect With Me**
-* 💼 [LinkedIn](https://www.linkedin.com/in/mohamedalwathiq)
+* 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-alwathiq)
 * 📧 [Email](mailto:alwathiqali@graduate.utm.my)

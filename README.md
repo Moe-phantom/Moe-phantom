@@ -1,11 +1,11 @@
 # Hi, I'm Mohamed Alwathiq 
 
-Mechatronics Engineering student at **Universiti Teknologi Malaysia**, working at the intersection of **applied AI for high-stakes systems** — medical decision support, industrial diagnostics, and agentic LLM systems.
+Mechatronics Engineering student at **Universiti Teknologi Malaysia**, working at the intersection of **applied AI for high-stakes systems**, medical decision support, industrial diagnostics, and agentic LLM systems.
 
 Currently:
 -  Aspiring Researcher
 -  Robotics integration on the **AIROST × DF Cobot** project (ROS 2, MoveIt2, Gazebo).
--  **Head of AI/ML** at [GDG on Campus UTM](https://gdg.community.dev/gdg-on-campus-universiti-teknologi-malaysia-johor-bahru-malaysia/).
+-  **Head of AI/ML** at [GDG on Campus UTM](https://gdg.community.dev/gdg-on-campus-universiti-teknologi-malaysia-johor-bahru-malaysia/). NOV 2025 - FEB 2026
 
 ---
 

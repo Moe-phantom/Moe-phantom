@@ -23,22 +23,21 @@ Currently:
 
 ###  Selected Projects
 
-** [Asclepios AI](#)** — *MIT Emerging Talent Program*
+**[Asclepios AI](#)** — *MIT Emerging Talent Program*
 Architected the core AI engines for a clinical decision-support system for substance use disorder treatment on 1.4M patient records. Built a twin-engine segmented XGBoost framework and a Chronicity Proxy algorithm that became a top-3 predictor of relapse risk (AUC 0.75 on TEDS).
 
-** [ExoDetectAI](#)** — *NASA International Space Apps Challenge*
+**[ExoDetectAI](#)** — *NASA International Space Apps Challenge*
 End-to-end ML pipeline for automated exoplanet validation on Kepler / K2 / TESS data; ensemble models (XGBoost, LightGBM, MLP) with LEO-vetter and lightkurve, deployed as a Streamlit prototype.
 
-** [Neuro-Symbolic Fake News Detector](#)**
+**[Neuro-Symbolic Fake News Detector](#)**
 Hybrid LSTM + symbolic-logic model showing improved interpretability and adversarial robustness compared to pure deep-learning baselines.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moe-phantom&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moe-phantom&layout=compact&theme=radical)
-
+![GitHub followers](https://img.shields.io/github/followers/Moe-phantom?style=flat-square&logo=github&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/Moe-phantom?style=flat-square&logo=github&label=Stars)
 ---
 
 ### 📫 Connect
